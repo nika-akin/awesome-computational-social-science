@@ -297,7 +297,7 @@ Koç University, TUR
 - [Machine Learning for Social Science: An Agnostic Approach](https://doi.org/10.1146/annurev-polisci-053119-015921) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2021)
 - [Measuring algorithmically infused societies](https://doi.org/10.1038/s41586-021-03666-1) by Claudia Wagner, Markus Strohmaier, Alexandra Olteanu, Emre Kıcıman, Noshir Contractor & Tina Eliassi-Rad (2021)
 - [The data revolution in social science needs qualitative research](https://doi.org/10.1038/s41562-022-01333-7) by Nikolitsa Grigoropoulou & Mario L. Small (2022)
-
+- [The worst of both worlds: A comparative analysis of errors in learning from data in psychology and machine learning](https://doi.org/10.1145/3514094.3534196) by Hullman, J., Kapoor, S., Nanayakkara, P., Gelman, A., & Narayanan, A (2022)
 
 ## Software
 
